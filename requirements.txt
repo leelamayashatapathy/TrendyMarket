@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-jose 
+requests
+beautifulsoup4 
+python-multipart 
+# For local imports, ensure your editor recognizes 'app/' as a source root. 

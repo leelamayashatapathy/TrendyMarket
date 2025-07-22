@@ -27,6 +27,13 @@ A FastAPI service that analyzes Indian market sectors and generates trade opport
    pip install -r requirements.txt
    ```
 
+5. Create .env File:
+
+   Create a file named .env in your project root (same directory as requirements.txt).
+   ```
+   GEMINI_API_KEY=GEMINI_API_KEY
+   ```
+
 ## Running the API
 ```
 uvicorn app.main:app --reload

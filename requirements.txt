@@ -4,4 +4,5 @@ python-jose
 requests
 beautifulsoup4 
 python-multipart 
+python-dotenv
 # For local imports, ensure your editor recognizes 'app/' as a source root. 

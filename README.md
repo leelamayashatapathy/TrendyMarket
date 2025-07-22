@@ -49,7 +49,3 @@ Authorization: Bearer <your_token>
 
 ## Allowed Sectors
 pharmaceuticals, technology, finance, energy, fmcg, it, banking, auto, telecom, realty, metals, oil & gas, healthcare, infrastructure, consumer durables, power, capital goods, media, chemicals, insurance, retail
-
-## Notes
-- The Gemini AI integration is currently mocked. Replace the placeholder with real API calls as needed.
-- All data is stored in-memory; restart will reset sessions and rate limits. 
